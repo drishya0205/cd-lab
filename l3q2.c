@@ -1,3 +1,4 @@
+// this code takes your sample code and generates tokens(hence the function name gettoken), but it also prints out row num and colnum in these neatly described boxes
 #include <stdio.h>
 #include <stdlib.h>
 
